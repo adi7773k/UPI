@@ -400,6 +400,4 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 ---
 
-## License
 
-Demo code
